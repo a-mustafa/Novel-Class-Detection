@@ -19,4 +19,4 @@ java -cp ECHO_v_0_2_AE.jar:lib/*.jar:. mineClass.Miner -F ~/path/to/Dataset/arff
 * Err%= Total Classification Error
 
 
-[1] Paper Citation
+[1] Paper Citation TBD
