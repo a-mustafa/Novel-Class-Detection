@@ -1,4 +1,4 @@
-# Novel Class Detection with AutoEncoder [1]
+# Unsupervised Deep Embedding for Novel Class Detection over Data Stream [1]
 
 **Requires the following python packages:**
   theano, sys, time, io, numpy
@@ -19,4 +19,4 @@ java -cp ECHO_v_0_2_AE.jar:lib/*.jar:. mineClass.Miner -F ~/path/to/Dataset/arff
 * Err%= Total Classification Error
 
 
-[1] Unsupervised Deep Embedding for Novel Class Detection over Data Stream
+[1] Paper Citation
